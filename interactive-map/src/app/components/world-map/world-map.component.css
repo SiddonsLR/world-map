@@ -1,0 +1,30 @@
+path:hover{
+    fill:red;
+}
+.header{
+    width:100;
+    height:3rem;
+    background-color: black; 
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:1rem;
+
+}
+.logo p{
+    color:white;
+}
+.itemCont{
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+}
+.mapCard{
+    padding:1rem;
+}
+.infoCard{
+    width:100;
+    border:2px solid black;
+    margin:1rem;
+    padding:1rem;
+    
+}
